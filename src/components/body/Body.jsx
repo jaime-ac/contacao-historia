@@ -8,21 +8,21 @@ function Body() {
 
     // meu array de imagens, foi criado com o useState para facilitar o processo de rendirização;
     const [imagens, setImagens] = useState([
-        './images/casa-abandonada.png',
-        './images/tristeza.png', 
-        './images/discussão.png', 
-        './images/casamento.png', 
-        './images/obstaculo.png',  
-        './images/trabalho.png', 
-        './images/greve.png', 
-        './images/dificuldade.png',
-        './images/aposta.png',
-        './images/aviao.png',
-        './images/parto.png',
-        './images/viagem.png',
-        './images/hospital.png',
-        './images/bar.png',
-        './images/funeral.png'
+        '/images/casa-abandonada.png',
+        '/images/tristeza.png', 
+        '/images/discussão.png', 
+        '/images/casamento.png', 
+        '/images/obstaculo.png',  
+        '/images/trabalho.png', 
+        '/images/greve.png', 
+        '/images/dificuldade.png',
+        '/images/aposta.png',
+        '/images/aviao.png',
+        '/images/parto.png',
+        '/images/viagem.png',
+        '/images/hospital.png',
+        '/images/bar.png',
+        '/images/funeral.png'
     ]);
 
     // função do botão para gerar uma imagem aleatória do meu array e mostrar ao usuário;
