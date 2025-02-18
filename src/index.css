@@ -8,7 +8,7 @@
 #root, html, body {
   min-height: 100vh;
   background-color: darkgray;
-  background-image: url('./images/background_body.jpg');
+  background-image: url('./images/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -79,7 +79,7 @@
         border: none;
     }
     .description_text{
-        font-size: 10px;
+        font-size: 15px;
         font-weight: bold;
         font-family: cursive;
         color: inherit;
@@ -105,7 +105,7 @@
     .quantidade-imagens__text{
         font-size: 13px;
         font-family: cursive;
-        font-weight: bold;
+        font-weight: bolder;
         background-color: transparent;
         border-radius: 10px;
         color: #fff;

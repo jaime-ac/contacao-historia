@@ -8,7 +8,7 @@ function Header() {
       <div className="header_card">
 
         <label htmlFor="" className='header_title--modification'>Fábulas em Imagens</label>
-        <label htmlFor="" className='header_subtitle--modification'> ⏩deixe o cubo guiar sua imaginação⏪</label>
+        <label htmlFor="" className='header_subtitle--modification'> ⏩deixe o quadrado guiar sua imaginação⏪</label>
         
       </div>
 
