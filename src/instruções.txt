@@ -1,0 +1,9 @@
+Olá, seja bem-vindo(a) ao jogo Contação de História!
+
+O jogo consiste em sortear uma imagem aleatória dentro de um conjunto de 15 imagens. Cada imagem sorteada carrega é muito mais do que uma mera imagem, é um percurso, um processo,
+um símbolo e uma trajetória, porém quem decide tudo isso, é você!!!
+
+O jogo começa quando você sortea uma imagem, a partir daí começa sua jornada de narrar uma incrível história partindo da primeira imagem gerada, a história vai ganhando rumo a medida
+que novas imagens forem sorteadas e chega ao fim quando não tiver mais nenhuma imagem a ser sorteada.
+
+Atente-se a quantidade de imagens restantes presente acima do quadro de imagens geradas, pois aquela quantidade determina quantas imagens ainda restam para definir o rumo da sua história.

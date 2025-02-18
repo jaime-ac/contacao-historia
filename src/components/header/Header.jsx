@@ -1,4 +1,5 @@
-import './Header.css'
+// import './Header.css'
+//toda estilização da página está no arquivo index.css, é uma outra forma de estilizar os elementos da minha página, a parte boa é que não preciso importar o arquivo aqui;
 
 function Header() {
   return (
